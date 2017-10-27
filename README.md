@@ -1,3 +1,4 @@
+# Test-Driven iOS Development with Swift 4 - Third Edition
 This is the code repository for [Test Driven iOS Development with Swift 4 - Third Edition](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition?utm_source=GitHub&utm_medium=repo&utm_campaign=9781788475709), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About the Book
@@ -28,9 +29,9 @@ func test_NumberOfVowels_WhenPassedDominik_ReturnsThree() {
 ```
 
 ## Related Products
-* [Developing iOS 11 Applications Using Swift 4 [Video]](Developing%20iOS%2011%20Applications%20Using%20Swift%204%20[Video]?utm_source=GitHub&utm_medium=repo&utm_campaign=9781788393546)
+* [Developing iOS 11 Applications Using Swift 4 [Video]](https://www.packtpub.com/application-development/developing-ios-11-applications-using-swift-4-video?utm_source=GitHub&utm_medium=repo&utm_campaign=9781788393546)
 
-* [Learn To Create WordPress Themes By Building 10 Projects [Video]](https://www.packtpub.com/web-development/learn-create-wordpress-themes-building-10-projects-video?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787123373)
+* [Test-Driven iOS Development with Swift](https://www.packtpub.com/application-development/test-driven-ios-development-swift?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785880735)
 
 * [Learning iOS 8 Game Development Using Swift](https://www.packtpub.com/game-development/learning-ios-8-game-development-using-swift?utm_source=GitHub&utm_medium=repo&utm_campaign=9781784393557)
 ### Suggestions and Feedback
