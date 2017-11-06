@@ -1,5 +1,5 @@
 # Test-Driven iOS Development with Swift 4 - Third Edition
-This is the code repository for [Test Driven iOS Development with Swift 4 - Third Edition](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition?utm_source=GitHub&utm_medium=repo&utm_campaign=9781788475709), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Test-Driven iOS Development with Swift 4 - Third Edition](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition?utm_source=GitHub&utm_medium=repo&utm_campaign=9781788475709), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About the Book
 
